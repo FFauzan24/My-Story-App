@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable-v24_splash.png.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable-v24/splash.png"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_itemstory.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/itemstory.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_login.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_add_stories.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_add_stories.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable-v24_placeholder.jpg.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable-v24/placeholder.jpg"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-pngs-58:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/menu_option_menu.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/menu/option_menu.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_maps.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/xml_file_paths.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable_ic_baseline_map_24.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable/ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_register.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable-v24_custom_input.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable-v24/custom_input.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_all_stories.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_all_stories.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_main.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_activity_detail_story.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/activity_detail_story.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/layout_loading_state.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/layout/loading_state.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/xml_backup_rules.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mystoryapp2.app-merged_res-63:/drawable_ic_baseline_logout.xml.flat",
+        "source": "com.dicoding.picodiploma.mystoryapp2.app-main-65:/drawable/ic_baseline_logout.xml"
+    }
+]

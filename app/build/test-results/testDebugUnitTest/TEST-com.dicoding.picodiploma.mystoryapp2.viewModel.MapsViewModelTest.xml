@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dicoding.picodiploma.mystoryapp2.viewModel.MapsViewModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-15T22:39:42" hostname="acenkz-ryzen" time="0.245">
+  <properties/>
+  <testcase name="AllStories with lat lon return Success" classname="com.dicoding.picodiploma.mystoryapp2.viewModel.MapsViewModelTest" time="0.236"/>
+  <testcase name="AllStories with lat lon return Failed" classname="com.dicoding.picodiploma.mystoryapp2.viewModel.MapsViewModelTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

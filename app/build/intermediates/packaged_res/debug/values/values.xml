@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="blue">#0038FF</color>
+    <color name="blue_white">#5900C2FF</color>
+    <color name="gray">#8F8F8F</color>
+    <color name="gray_3">#48484a</color>
+    <color name="gray_5">#2c2c2e</color>
+    <color name="orange">#FF7426</color>
+    <color name="pink_50">#C9356E</color>
+    <color name="pink_70">#8c1749</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_deskripsi">Add Deskripsi</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_story">Add Story</string>
+    <string name="app_name">My Story</string>
+    <string name="create_account">Create Account</string>
+    <string name="deskripsi">Masukan Deskripsi…</string>
+    <string name="deskripsi2">Deskripsi</string>
+    <string name="error">Failed Get Data</string>
+    <string name="floating">Floating</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="input_username">Masukan Username…</string>
+    <string name="register">REGISTER</string>
+    <string name="return2">RETURN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="text1">Login MyStories</string>
+    <string name="text2">Register MyStory</string>
+    <string name="upload">Upload Image</string>
+    <string name="username">Acenkz</string>
+    <style name="Theme.MyStoryApp2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="editTextColor">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="hintTextColor">@color/gray</item>
+    </style>
+</resources>
